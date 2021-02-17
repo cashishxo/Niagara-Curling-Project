@@ -1,0 +1,40 @@
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\bin\Debug\net5.0\appsettings.json
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\bin\Debug\net5.0\Niagara Falls Curling Club.exe
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\bin\Debug\net5.0\Niagara Falls Curling Club.deps.json
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\bin\Debug\net5.0\Niagara Falls Curling Club.runtimeconfig.json
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\bin\Debug\net5.0\Niagara Falls Curling Club.runtimeconfig.dev.json
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\bin\Debug\net5.0\Niagara Falls Curling Club.dll
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\bin\Debug\net5.0\ref\Niagara Falls Curling Club.dll
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\bin\Debug\net5.0\Niagara Falls Curling Club.pdb
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\bin\Debug\net5.0\Niagara Falls Curling Club.Views.dll
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\bin\Debug\net5.0\Niagara Falls Curling Club.Views.pdb
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.csprojAssemblyReference.cache
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.AssemblyInfoInputs.cache
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.AssemblyInfo.cs
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.csproj.CoreCompileInputs.cache
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.RazorAssemblyInfo.cache
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.RazorAssemblyInfo.cs
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\staticwebassets\Niagara Falls Curling Club.StaticWebAssets.Manifest.cache
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\staticwebassets\Niagara Falls Curling Club.StaticWebAssets.xml
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\scopedcss\bundle\Niagara Falls Curling Club.styles.css
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.TagHelpers.input.cache
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.TagHelpers.output.cache
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.RazorCoreGenerate.cache
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.RazorTargetAssemblyInfo.cache
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.RazorTargetAssemblyInfo.cs
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.Views.pdb
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.dll
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\ref\Niagara Falls Curling Club.dll
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.pdb
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.genruntimeconfig.cache
+C:\Users\choud\source\repos\Niagara Falls Curling Club\Niagara Falls Curling Club\obj\Debug\net5.0\Niagara Falls Curling Club.csproj.CopyComplete
