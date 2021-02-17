@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\choud\\source\\repos\\Niagara Falls Curling Club\\Niagara Falls Curling Club\\Niagara Falls Curling Club.csproj": {}
+    "C:\\Users\\choud\\source\\repos\\Niagra_Curling_Project\\Niagara Falls Curling Club\\Niagara Falls Curling Club.csproj": {}
   },
   "projects": {
-    "C:\\Users\\choud\\source\\repos\\Niagara Falls Curling Club\\Niagara Falls Curling Club\\Niagara Falls Curling Club.csproj": {
+    "C:\\Users\\choud\\source\\repos\\Niagra_Curling_Project\\Niagara Falls Curling Club\\Niagara Falls Curling Club.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\choud\\source\\repos\\Niagara Falls Curling Club\\Niagara Falls Curling Club\\Niagara Falls Curling Club.csproj",
+        "projectUniqueName": "C:\\Users\\choud\\source\\repos\\Niagra_Curling_Project\\Niagara Falls Curling Club\\Niagara Falls Curling Club.csproj",
         "projectName": "Niagara Falls Curling Club",
-        "projectPath": "C:\\Users\\choud\\source\\repos\\Niagara Falls Curling Club\\Niagara Falls Curling Club\\Niagara Falls Curling Club.csproj",
+        "projectPath": "C:\\Users\\choud\\source\\repos\\Niagra_Curling_Project\\Niagara Falls Curling Club\\Niagara Falls Curling Club.csproj",
         "packagesPath": "C:\\Users\\choud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\choud\\source\\repos\\Niagara Falls Curling Club\\Niagara Falls Curling Club\\obj\\",
+        "outputPath": "C:\\Users\\choud\\source\\repos\\Niagra_Curling_Project\\Niagara Falls Curling Club\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\choud\\AppData\\Roaming\\NuGet\\NuGet.Config",
